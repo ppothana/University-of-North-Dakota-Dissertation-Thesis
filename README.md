@@ -17,7 +17,7 @@ The template includes the following components:
 
 ## File Structure
 
-- **main.tex**: The primary document file that compiles the overall thesis/dissertation.
+- **master.tex**: The primary document file that compiles the overall thesis/dissertation.
 - **chapter1.tex, chapter2.tex, ...**: Example chapter files. Adjust or add files as needed.
 - **references.bib**: A sample bibliography file for managing citations.
 - **figures/**: A directory intended for all image files referenced in the document.
@@ -30,7 +30,7 @@ The template includes the following components:
 2. **Compilation**  
    Use your preferred LaTeX editor or command-line tool. A typical compilation sequence is as follows:
    ```bash
-   pdflatex main.tex
-   bibtex main
-   pdflatex main.tex
-   pdflatex main.tex
+   pdflatex master.tex
+   bibtex master
+   pdflatex master.tex
+   pdflatex master.tex
