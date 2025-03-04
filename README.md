@@ -1,6 +1,9 @@
-# Thesis/Dissertation LaTeX Template
+# University of North Dakota Thesis/Dissertation LaTeX Template
 
-This repository provides a LaTeX template designed for the creation of theses and dissertations. The template is structured to offer clarity and flexibility while meeting academic formatting standards.
+This repository provides a LaTeX template designed for the creation of University of North Dakota theses and dissertations. The template is structured to offer clarity and flexibility while meeting University of North Dakota theses and dissertations academic formatting standards.
+## Disclaimer
+
+This repository is an independent project and is not an official source or endorsement by the University of North Dakota. It is provided solely for academic reference and convenience. Users must verify that the formatting complies with the official guidelines provided by the university.
 
 ## Overview
 
